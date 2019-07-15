@@ -1,6 +1,6 @@
 # quantus_frontend
 
-<h2>Start Backend</h2>
+<h2>Start Frontend</h2>
 <h4>Start Project</h4>
 <ul>
   <li>$ > cd frontend</li> 
